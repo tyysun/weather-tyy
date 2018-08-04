@@ -1,6 +1,6 @@
 {
   "name": "weather-tyy",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A simple weather tool",
   
   "main": "index.js",
@@ -17,5 +17,13 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.18.0"
+  },
+  "devDependencies": {},
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/tyysun/weather-tyy.git"
+  },
+  "bugs": {
+      "url": "https://github.com/tyysun/weather-tyy/issues"
   }
 }

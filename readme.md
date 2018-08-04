@@ -19,4 +19,4 @@
  weather 西安           // 查询具体城市天气
 ```
 
-![](https://upload-images.jianshu.io/upload_images/3429455-90447250fe87053f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/3429455-f4471b513116d913.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
